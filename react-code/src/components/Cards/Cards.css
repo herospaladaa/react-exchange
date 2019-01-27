@@ -1,0 +1,8 @@
+.marginBottomCards{
+    margin-bottom: 10px;
+}
+
+.cardMinus{
+    display: table-cell;
+    vertical-align: middle;
+}
